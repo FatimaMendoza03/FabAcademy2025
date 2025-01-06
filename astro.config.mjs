@@ -6,7 +6,8 @@ import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://FatimaMendoza03.github.io/FabAcademy2025",
+  site: "https://FatimaMendoza03.github.io",
+  base: 'FabAcademy2025',
   markdown: {
     smartypants: true,
     syntaxHighlight: "shiki",
