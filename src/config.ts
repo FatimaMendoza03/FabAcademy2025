@@ -1,7 +1,7 @@
 import type { SocialObjects } from "@/lib/types";
 
 export const SITE = {
-  website: "https://FatimaMendoza.github.io", // replace this with your deployed domain
+  website: "https://FatimaMendoza.github.io/FabAcademy2025", // replace this with your deployed domain
   author: "FatimaMendoza03",
   desc: "Documentation template using Astro and Shadcn",
   title: "Fátima Mendoza",
