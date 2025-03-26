@@ -1,0 +1,1 @@
+DIY Winding machine with self reversing screw by electricdiylab on Thingiverse: https://www.thingiverse.com/thing:5922837
